@@ -16,10 +16,7 @@ Once you've worked through the lab exercises, you'll be fully equipped to create
 The workshop materials for each part of the lab are contained in the subfolders README files:
 * [Lab 1: Cognitive Chatbot Basics](./1-Basics)
 * [Lab 2: Chatbot Integrations](./2-Integrations)
-* [Lab 3: Enhancing Your Chatbot with Advanced Watson Assistant Features](./3-Advanced)
 * [Lab 4: Understanding User Sentiment - Integrating Watson Natural Language Understanding](./4-Sentiment)
-* [Lab 5: Extending Your Chatbot with Watson Discovery](./5-Discovery)
-* [Lab 6: Integrating External Data using IBM Cloud Functions](./6-External)
 
 You should _follow the materials in this order_.  
 
