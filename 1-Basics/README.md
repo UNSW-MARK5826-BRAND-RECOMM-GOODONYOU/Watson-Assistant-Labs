@@ -51,7 +51,7 @@ Click on `Skills` in the left menu bar, then `Create Skill`.
 
 Select Dialog skill and click `Next`.
 
-![](./images/05.02-select-create-skill.jpg)
+![](./images/05.02-select-create-skill-new.jpg)
 
 Enter the name `Phone Advisor` for your skill, and hit `Create dialog skill`:
 
