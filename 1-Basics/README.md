@@ -186,7 +186,7 @@ Take a look at the [Watson Assistant documentation](https://cloud.ibm.com/docs/s
 
 A _**dialog**_ uses the _intents_ and _entities_ that are identified in the user's input, plus _context_ from the application that uses _**Watson Assistant**_, to interact with the user and ultimately provide a useful response. Our _dialog_ tree should help the user choose a new mobile phone based on an existing preference or a characteristic important to the user.
 
-**(2)** Select `Dialog` from the menu bar, and then hit `Create dialog`.
+**(2)** Select `Dialog` from the left menu bar.
 
 ![](./images/19-dialog-create.jpg)
 
