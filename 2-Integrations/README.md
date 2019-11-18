@@ -102,4 +102,4 @@ Now hit `Save`.
 ## Summary
 Well done! You've now built a basic chatbot that uses three user interfaces!
 
-Next you should go to [Lab 3: Enhancing Your Chatbot with Advanced Watson Assistant Features](../3-Advanced) to further build out and enhance your chatbot by using more _**Watson Assistant**_ functionality.
+Next you should go to [Lab 3: Understanding User Sentiment - Integrating Watson Natural Language Understanding](../3-Sentiment) to further build out and enhance your chatbot by using more _**Watson Assistant**_ functionality.
