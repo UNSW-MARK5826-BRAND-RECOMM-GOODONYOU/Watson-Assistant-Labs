@@ -30,9 +30,10 @@ In this section we are going to create a **_Watson Assistant_** instance on IBM 
 
 **(2)** Create the service with a unique name: we'd suggest something like `Watson Assistant-eventname-yourinitials`, e.g. `Watson Assistant-workshop-JH`
 
-Scroll down and ensure you are using the `Lite` plan, then hit `Create`.
+Ensure you are using the `Lite` plan.
 
 ![](./images/02-assistant-service-create.jpg)
+Scroll down and give the service name you want, then hit `Create`.
 ![](./images/02.02-assistant-service-create.jpg)
 
 **(3)** Click on `Launch Watson Assistant`.
