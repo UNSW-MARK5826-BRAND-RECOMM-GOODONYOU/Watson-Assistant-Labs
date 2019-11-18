@@ -138,7 +138,7 @@ An _**entity**_ represents a term or object in the user's input that provides **
 
 _Entities_ make it possible for a single _intent_ to represent multiple specific actions. For example in our case, the `positive` _intent_ can be used with _entities_ to recognise positive feeling about _different_ mobile phones or their attributes. So in effect, an _entity_ defines _a class of objects_, with specific values representing the possible objects in that class.
 
-Select `Entities` from the menu bar, then `Create Entity`. Next enter an _entity_ name of `brand` and hit `Create Entity`.
+Select `Entities` from the left menu bar, then `Create Entity`. Next enter an _entity_ name of `brand` and hit `Create Entity`.
 
 ![](./images/12-add-entity.jpg)
 
