@@ -45,6 +45,8 @@ Scroll down and give the service name you want, then hit `Create`.
 
 Click on `Skills` in the menu bar, then `Create Skill`. Enter the name `Phone Advisor` for your skill, and hit `Create dialog skill`:
 
+![](./images/04-select-skill.jpg)
+
 ![](./images/05-create-skill-new.jpg)
 
 ![](./images/06-add-dialog-skill.jpg)
