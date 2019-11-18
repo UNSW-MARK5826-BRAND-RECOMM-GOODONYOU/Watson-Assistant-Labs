@@ -1,4 +1,4 @@
-# _**Watson Assistant Lab 4**_: Understanding User Sentiment - Integrating Watson Natural Language Understanding
+# _**Watson Assistant Lab 3**_: Understanding User Sentiment - Integrating Watson Natural Language Understanding
 In this lab we're going to show how you can extend your chatbot by using additional AI capabilities. We'll use the _**Watson Natural Language Understanding (NLU)**_ service to quantify _**sentiment**_ of user responses, and integrate this with _**Watson Assistant**_ using _**IBM Cloud Functions**_.
 
 In practical terms, we'll build another _**Watson Assistant**_ _intent_, that allows the user to submit a review of a mobile phone. When we pick up this _intent_, we'll ask the user for a phone brand and the content of their review, feed the review text through _**Watson NLU**_ to check the sentiment, and return a response based on its positivity/negativity.
