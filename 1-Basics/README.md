@@ -230,7 +230,7 @@ Using `true` in this way ensures we will **always** execute the logic in a node 
 
 This node is asking the user what they like/dislike about their phone. We'll add some more logic to this soon, but in order to drop into this child node directly from the `New Phone` node (i.e. without waiting for a further user response), we need to instruct the `New Phone` node to not wait for any user input.
 
-Select the `New phone` node and change the **And finally** option to `Skip User Input`.
+Select the `New phone` node and change the **Then assistant should** option to `Skip User Input`.
 
 ![](./images/25-dialog-newphone-skip.jpg)
 
