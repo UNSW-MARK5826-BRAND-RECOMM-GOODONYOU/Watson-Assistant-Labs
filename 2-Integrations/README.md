@@ -2,13 +2,11 @@
 In this lab we'll build a web-hosted chat widget that will allow you to test the _**Watson Assistant**_ _skill_ you've just created in a web environment. We'll then connect your _skill_ to a third party chat service **(Slack)** to show how you can easily run your chatbot within other applications, and we'll finish by creating a live, publicly available web-hosted version of your chatbot.
 
 ## Requirements
-- Slack account
 - Successful completion of [Lab 1: Cognitive Chatbot Basics](../1-Basics).
 
 ## Agenda
 - Create an _**Assistant**_ for your skill
 - Create a _**Preview Link**_: a web widget to test your chatbot
-- Build a Slack bot
 - Setup a live web-hosted chatbot
 
 ## Create an _**Assistant**_ for your skill
