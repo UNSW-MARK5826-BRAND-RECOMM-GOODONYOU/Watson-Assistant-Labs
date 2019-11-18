@@ -254,7 +254,7 @@ If assistant recognizes  |  Respond with
 
 ![](./images/28-dialog-positive-responses.jpg)
 
-After we've provided a response to the user, we want to make sure we ask them if they need any more help. Edit the **And finally** section so that we `Jump to` to our `Help` node. Choose `Respond` after you've selected `Help` as the destination node for the jump:
+After we've provided a response to the user, we want to make sure we ask them if they need any more help. Edit the **Then assistant should** section so that we `Jump to` to our `Help` node. Choose `Respond` after you've selected `Help` as the destination node for the jump:
 
 ![](./images/29-dialog-positive-jump.jpg)
 
