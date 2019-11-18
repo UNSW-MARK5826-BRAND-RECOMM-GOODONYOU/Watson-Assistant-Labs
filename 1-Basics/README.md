@@ -43,7 +43,7 @@ Scroll down and give the service name you want, then hit `Create`.
 ## Understanding user intent: create _**intents**_ and _**entities**_
 **(1)** The first thing we need to do in **_Watson Assistant_** is create a _**Skill**_. A _**skill**_ contains the training data and machine learning logic that enables your chatbot to understand and help users and customers.
 
-Click on `Skills` in the menu bar, then `Create Skill`. Enter the name `Phone Advisor` for your skill, and hit `Create dialog skill`:
+Click on `Skills` in the left menu bar, then `Create Skill`. Enter the name `Phone Advisor` for your skill, and hit `Create dialog skill`:
 
 ![](./images/04-select-skill.jpg)
 
