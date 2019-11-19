@@ -285,7 +285,7 @@ Don't forget to `Jump to` to your `Help` node again for both of the `Brand Negat
 
 **(11)** The final child node should be a catch-all for any user input we don't understand in this dialog branch. It should test for `anything_else`, and respond with `I'm not sure I understand.`
 
-This time, because we know the user **is** interested in a phone recommendation but _we couldn't classify their feedback_ regarding their existing phone, instead of jumping to the `Help` node, we should ask the user to try providing feedback again. We do this by setting **And finally** to `Jump to` the `Ask User Preference` node and `Respond`.
+This time, because we know the user **is** interested in a phone recommendation but _we couldn't classify their feedback_ regarding their existing phone, instead of jumping to the `Help` node, we should ask the user to try providing feedback again. We do this by setting **Then assistant should** to `Jump to` the `Ask User Preference` node and `Respond`.
 
 ![](./images/33-dialog-newphone-notsure.jpg)
 
