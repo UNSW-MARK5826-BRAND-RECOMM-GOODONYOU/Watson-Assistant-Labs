@@ -250,7 +250,7 @@ It might be missing .json end. Don't worry, if it looks like this:
 jerry.seinfeld_dev/default/getSentimentXXX
 ```
 
-Just add .json in the end when you are inputing your endpoint. 
+Just add .json in the end when you are inputing your endpoint name. 
 
 ![](./images/24-get-function-api-name.jpg)
 
