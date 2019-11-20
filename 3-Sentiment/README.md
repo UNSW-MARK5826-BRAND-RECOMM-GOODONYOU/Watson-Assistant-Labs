@@ -208,6 +208,8 @@ Configure it as you see here, using the _Context Editor_ to save the `@brand` op
 
 ![](./images/22-dialog-save-brand.jpg)
 
+![](./images/22.02-dialog-save-brand.jpg)
+
 _Note:_ we are explicitly specifying a requirement for review text of at least 15 characters in length, as the _**Watson NLU**_ service will throw an error if fewer characters are provided as input. You could add a check for this when you've completed this lab if you want an additional challenge!
 
 **(5)** The last thing the `Save Brand` node does is `Wait for user input`. This user input will be the review text that we want to send to our `getSentimentXXX` _**IBM Cloud Function**_.
