@@ -54,6 +54,8 @@ In our case, we are just going to use the sentiment data to 'grade' the sentimen
 
 ![](./images/06-create-nlu-service2.jpg)
 
+![](./images/06.02-create-nlu-service2.jpg)
+
 **(2)** Once your service is created, click `Manage`. We'll need the `API key` and the `URL` from this page to access the service later, so copy them both from here and paste them to a temporary file or note. You can copy the `API Key` by clicking the `Copy to clipboard!` icon.
 
 ![](./images/13-nlu-credentials.jpg)
