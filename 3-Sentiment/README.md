@@ -303,7 +303,11 @@ Next, change the `Call getSentiment function` node so that it will `Skip user in
 
 ![](./images/30-call-get-sentiment-jump.jpg)
 
-Finally, in our `Help & Reset Context` node, set the context variables `$brandForReview` and `$nluSentiment` to `null` so they are reset every time we complete a successful user interaction.
+**(11)** There are a number of ways of reintialising context variables. Here we are going to change our Help node to perform the resets - this is a good node to use for this purpose because we drop into it every time we've successfully completed a user interaction.
+
+Click on your Help node and rename it to Help & Reset Context, then click on the `three-dots` icon and Open context editor.
+
+Set the context variables `$brandForReview` and `$nluSentiment` to `null` so they are reset every time we complete a successful user interaction.
 
 ![](./images/31-reset-context.jpg)
 
