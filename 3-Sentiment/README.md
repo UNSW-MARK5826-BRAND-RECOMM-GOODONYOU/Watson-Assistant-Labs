@@ -244,6 +244,13 @@ It should look something like:
 ```Javascript
 jerry.seinfeld_dev/default/getSentimentXXX.json
 ```
+It might be missing .json end. Don't worry, if it looks like this:
+
+```Javascript
+jerry.seinfeld_dev/default/getSentimentXXX
+```
+
+Just add .json in the end when you are inputing your endpoint. 
 
 ![](./images/24-get-function-api-name.jpg)
 
