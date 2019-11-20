@@ -4,7 +4,7 @@ In this lab we're going to show how you can extend your chatbot by using additio
 In practical terms, we'll build another _**Watson Assistant**_ _intent_, that allows the user to submit a review of a mobile phone. When we pick up this _intent_, we'll ask the user for a phone brand and the content of their review, feed the review text through _**Watson NLU**_ to check the sentiment, and return a response based on its positivity/negativity.
 
 ## Requirements
-- Successful completion of [Lab 3: Enhancing Your Chatbot with Advanced Watson Assistant Features](../3-Advanced).
+- Successful completion of [Lab 2: Chatbot Integrations](../2-Integrations).
 
 ## Agenda
 - Introduction to _**Watson NLU**_
@@ -53,6 +53,8 @@ In our case, we are just going to use the sentiment data to 'grade' the sentimen
 ![](./images/05-create-nlu-service.jpg)
 
 ![](./images/06-create-nlu-service2.jpg)
+
+![](./images/06.02-create-nlu-service2.jpg)
 
 **(2)** Once your service is created, click `Manage`. We'll need the `API key` and the `URL` from this page to access the service later, so copy them both from here and paste them to a temporary file or note. You can copy the `API Key` by clicking the `Copy to clipboard!` icon.
 
