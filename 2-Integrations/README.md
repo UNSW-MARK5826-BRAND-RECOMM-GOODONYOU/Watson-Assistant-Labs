@@ -56,7 +56,7 @@ The first _integration_ we'll create for our chatbot is a _**Preview Link**_. Ac
 ## Setup a live web-hosted chatbot
 As well as using _**Watson Assistant**_ _integrations_, you can build your own application that uses the chatbot logic you've created. This typically does require some web or mobile development skills. Fortunately, the _IBM iLab team_ has created a _**Chatbot Platform**_ application, that can create a live, customisable, publicly-available web-based chatbot for you, without the need for these skills.
 
-**(1)** Launch the _Chatbot Platform_ from (LINK MAY NOT WORK RIGHT NOW) [here](http://chatbot-platform.eu-gb.mybluemix.net), and register for access. Once you've successfully registered, you will be taken to the Demo Dashboard.
+**(1)** Launch the _Chatbot Platform_ from [here](http://chatbot-platform.eu-gb.mybluemix.net), and register for access. Once you've successfully registered, you will be taken to the Demo Dashboard.
 
 **(2)** Hit `Create New` and select `Empty demo`:
 
