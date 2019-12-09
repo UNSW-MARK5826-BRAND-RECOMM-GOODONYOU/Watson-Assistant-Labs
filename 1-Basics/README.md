@@ -88,7 +88,7 @@ Feel free to add a few more variations of your own.
 
 then hit `Create intent` to repeat the process
 
-![](./images/09.2-new-intent.jpg)
+![](./images/09.02-new-intent.jpg)
 
 
 for our next _intent_ named `positive`:
