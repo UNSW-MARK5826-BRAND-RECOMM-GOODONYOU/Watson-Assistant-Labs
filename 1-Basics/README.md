@@ -82,7 +82,16 @@ Feel free to add a few more variations of your own.
 
 ![](./images/09-intent-greeting-examples.jpg)
 
-**(4)** When you've done, click on the arrow at the top left of the screen to go back, then hit `Create intent` to repeat the process for our next _intent_ named `positive`:
+**(4)** When you've done, click on the arrow at the top left of the screen to go back,
+
+![](./images/09.01-back.jpg)
+
+then hit `Create intent` to repeat the process
+
+![](./images/09.2-new-intent.jpg)
+
+
+for our next _intent_ named `positive`:
 
 - **Intent name:** `positive`
 - **Description:** `Expressing positive opinion about mobile phones`
