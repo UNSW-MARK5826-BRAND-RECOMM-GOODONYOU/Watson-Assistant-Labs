@@ -187,7 +187,7 @@ Take a look at the [Watson Assistant documentation](https://cloud.ibm.com/docs/s
 **(10)** Create another _entity_, named `attribute`, with these values:
  - `battery` (with _synonym_ `battery life`)
  - `style` (with _synonyms_ `looks`, `stylish`, `fashion`)
- 
+
 ![](./images/18.01-entity-attribute.jpg)
 ![](./images/18-entity-attribute.jpg)
 
@@ -389,4 +389,4 @@ There's an `Import Skill` option available whenever you create a new skill - it 
 
   ![](./images/34-import-skill.jpg)
 
-Now go to [Lab 2: Chatbot Integrations](../2-Integrations) to get your chatbot working in a live environment.
+Now go to [Lab 2: Chatbot Preview UI](../2-Preview-UI) to get your chatbot working in a live environment.

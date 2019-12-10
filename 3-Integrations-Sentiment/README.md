@@ -4,7 +4,7 @@ In this lab we're going to show how you can extend your chatbot by using additio
 In practical terms, we'll build another _**Watson Assistant**_ _intent_, that allows the user to submit a review of a mobile phone. When we pick up this _intent_, we'll ask the user for a phone brand and the content of their review, feed the review text through _**Watson NLU**_ to check the sentiment, and return a response based on its positivity/negativity.
 
 ## Requirements
-- Successful completion of [Lab 2: Chatbot Integrations](../2-Integrations).
+- Successful completion of [Lab 2: Chatbot Preview UI](../2-Preview-UI).
 
 ## Agenda
 - Introduction to _**Watson NLU**_
@@ -250,7 +250,7 @@ It might be missing .json end. Don't worry, if it looks like this:
 jerry.seinfeld_dev/default/getSentimentXXX
 ```
 
-Just add .json in the end when you are inputing your endpoint name. 
+Just add .json in the end when you are inputing your endpoint name.
 
 ![](./images/24-get-function-api-name.jpg)
 
