@@ -14,7 +14,7 @@ Once you've worked through the lab exercises, you'll be fully equipped to create
 ## Workshop materials
 The workshop materials for each part of the lab are contained in the subfolders README files:
 * [Lab 1: Cognitive Chatbot Basics](./1-Basics)
-* [Lab 2: Chatbot Integrations](./2-Integrations)
+* [Lab 2: Chatbot Preview UI](./2-Preview-UI)
 * [Lab 3: Understanding User Sentiment - Integrating Watson Natural Language Understanding](./3-Sentiment)
 
 You should _follow the materials in this order_.  
