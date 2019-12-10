@@ -187,7 +187,8 @@ Take a look at the [Watson Assistant documentation](https://cloud.ibm.com/docs/s
 **(10)** Create another _entity_, named `attribute`, with these values:
  - `battery` (with _synonym_ `battery life`)
  - `style` (with _synonyms_ `looks`, `stylish`, `fashion`)
-
+ 
+![](./images/18.01-entity-attribute.jpg)
 ![](./images/18-entity-attribute.jpg)
 
 ## Building chatbot responses: create a _**dialog tree**_
