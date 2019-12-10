@@ -54,4 +54,4 @@ The first _integration_ we'll create for our chatbot is a _**Preview Link**_. Ac
 ## Summary
 Well done! You've now built a basic chatbot that uses user interface!
 
-Next you should go to [Lab 3: Understanding User Sentiment - Integrating Watson Natural Language Understanding](../3-Sentiment) to further build out and enhance your chatbot by using more _**Watson Assistant**_ functionality.
+Next you should go to [Lab 3: Understanding User Sentiment - Integrating Watson Natural Language Understanding](../3-Integrations-Sentiment) to further build out and enhance your chatbot by using more _**Watson Assistant**_ functionality.
